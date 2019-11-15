@@ -1,6 +1,6 @@
-<table>
+<table border=0>
   <tr> 
-    <td><img src="https://codemovement.pk/wp-content/uploads/2014/10/KAF_3205.png"  /></td>
+    <td><img src="https://codemovement.pk/wp-content/uploads/2014/10/KAF_3205.png" width=100 /></td>
     <td><h1>Nabeel Ilyas</h1></td>
   </tr>
 </table>
